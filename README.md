@@ -8,7 +8,7 @@
 
 ## WildCard平台介绍
 
-[WildCard](https://bit.ly/WildCardo) 是一个专注于提供虚拟信用卡服务的平台，用户可以通过该平台轻松注册和订阅海外服务。该平台特别优化了OpenAI的使用体验，包括自动注册和升级ChatGPT Plus功能。
+[WildCard](https://bit.ly/4n3HnKb) 是一个专注于提供虚拟信用卡服务的平台，用户可以通过该平台轻松注册和订阅海外服务。该平台特别优化了OpenAI的使用体验，包括自动注册和升级ChatGPT Plus功能。
 
 ## WildCard的主要功能
 
@@ -27,7 +27,7 @@
 ![image](https://github.com/user-attachments/assets/ef8ae1fd-1530-4354-a537-44867908dcf5)
 ## WildCard的使用流程
 
-用户可以通过访问[WildCard官网](https://bit.ly/WildCardo)注册账户并开通虚拟信用卡。成功注册后，用户即可通过支付宝充值，并使用虚拟卡订阅所需的海外服务。
+用户可以通过访问[WildCard官网](https://bit.ly/4n3HnKb)注册账户并开通虚拟信用卡。成功注册后，用户即可通过支付宝充值，并使用虚拟卡订阅所需的海外服务。
 
 ## WildCard的收费标准
 
@@ -39,4 +39,4 @@ WildCard平台在处理OpenAI相关服务时进行了多方面的优化，用户
 
 ## 总结
 
-[WildCard](https://bit.ly/WildCardo) 为国内用户提供了一种方便快捷的方式来订阅海外服务，尤其是对那些没有海外银行卡的用户来说，这是一个值得信赖的选择。该平台操作简便，用户可以随时充值和提现，适合用于订阅ChatGPT等多种海外付费服务，强烈推荐！
+[WildCard](https://bit.ly/4n3HnKb) 为国内用户提供了一种方便快捷的方式来订阅海外服务，尤其是对那些没有海外银行卡的用户来说，这是一个值得信赖的选择。该平台操作简便，用户可以随时充值和提现，适合用于订阅ChatGPT等多种海外付费服务，强烈推荐！
